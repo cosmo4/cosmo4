@@ -16,9 +16,9 @@ My name is Luke Warner and I'm from Idaho. I'm currently studying Software Engin
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmo4&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmo4&exclude_repo=BankApp,APCompSci,gitPushOverGrade,boyogreaa&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmo4&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmo4&exclude_repo=BankApp,APCompSci,gitPushOverGrade,boyogreaa&layout=compact)
 
 
 ## Let's Connect!
