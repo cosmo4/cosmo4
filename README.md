@@ -14,10 +14,12 @@ My name is Luke Warner and I'm from Idaho. I'm currently studying Software Engin
 * Game made with Unity: [Flappy Pig](https://simmer.io/@cosmo4/flappy-pig)
 * Notes Manager Desktop App: (tkinter, Python) [Link to code](https://github.com/cosmo4/CSE-310-Team6)
 
-## Stats
+## Stats 📊
 
+### Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmo4&exclude_repo=BankApp,APCompSci,gitPushOverGrade,boyogreaa&show_icons=true)
 
+### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmo4&exclude_repo=BankApp,APCompSci,gitPushOverGrade,boyogreaa&layout=compact)
 
 
