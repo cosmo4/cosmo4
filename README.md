@@ -6,10 +6,11 @@ My name is Luke Warner and I'm from Idaho. I'm currently studying Software Engin
 
 ## Technologies and Tools
 
-- Proficient in: JavaScript, Node.js, Express, HTML, CSS, C#, .NET, ASP.NET Core, SQL, Python
+- Proficient in: TypeScript, Next.js, JavaScript, Node.js, Express, HTML, CSS, C#, .NET, ASP.NET Core, SQL, Python
 - Skills: Communication, Customer Service, Team work, Problem Solving, Passion for Learning
 
 ## ✨ Top Projects ✨
+* Photography Website: [Link to page](https://marymillsphotography.com) | [Link to code](https://github.com/cosmo4/mary-photography)
 * Wedding Announcement Website: [Link to page](https://cosmo4.github.io/hannah-ben/index.html) | [Link to code](https://github.com/cosmo4/hannah-ben)
 * Game made with Unity: [Flappy Pig](https://simmer.io/@cosmo4/flappy-pig)
 * Notes Manager Desktop App: (tkinter, Python) [Link to code](https://github.com/cosmo4/CSE-310-Team6)
