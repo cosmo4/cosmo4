@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Luke Warner and I'm from Idaho. I'm currently studying Software Engineering with an emphasis in Web Development at BYU-Idaho and I'm set to graduate in the Fall of 2024.
+My name is Luke Warner and I'm from Idaho. I'm recently graduated with a B.S. in Software Engineering with an emphasis in Web Development at BYU-Idaho.
 
 ## Technologies and Tools
 
